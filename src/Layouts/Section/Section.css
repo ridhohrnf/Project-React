@@ -1,0 +1,31 @@
+.myCard {
+    margin-bottom: 2%;
+}
+
+.myTitleCard {
+    color: rgb(45, 112, 189);
+}
+
+.myRating {
+    float: left;
+}
+.myDuration {
+    float: right;
+}
+.myReadMore {
+    clear: both;
+    width: 100%;
+    margin-top: 2%;
+}
+.myTitleData {
+    display: inline;
+}
+.myViewMore {
+    display: inline;
+    color: #1890FF;
+    float: right;
+}
+.myRowData {
+    clear: both;
+    margin-top: 1%;
+}

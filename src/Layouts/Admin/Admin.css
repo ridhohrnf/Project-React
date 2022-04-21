@@ -1,0 +1,18 @@
+.myContainer {
+    margin: 0 auto;
+    width: 30%;
+    max-width: 80%;
+}
+
+.myCenter {
+    text-align: center;
+}
+
+.myRegister {
+    background-color: #52c41a!important;
+    border-color: #52c41a!important;
+}
+
+.myFormButton {
+    width: 100%;
+}
